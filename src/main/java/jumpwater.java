@@ -59,5 +59,6 @@ class hellogit{
     String first;
     public void show(){
         System.out.println("hello git 2");
+        System.out.println("hello git 3");
     }
 }
