@@ -55,3 +55,6 @@ class Contact{
         System.out.println("姓"+this.familyname+"名"+this.name+"电话号码"+this.callnumber+"电子邮箱"+this.email);
     }
 }
+class hellogit{
+    String first;
+}
